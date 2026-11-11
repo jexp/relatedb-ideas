@@ -23,6 +23,10 @@ Have you built something? PRs welcome — pick the closest category, or open a n
 
 ## This Repo Is a Graph Database
 
+[![The vault rendered as a graph — 384 nodes and 1,876 relationships across Project, Research, Technology, Company, Person and Category](ideas-graph.svg)](ideas-graph.svg)
+
+*Every node is a file in this repo. Click for the full-resolution SVG ([PNG](ideas-graph.png)); regenerate it by running [`ideas-graph.ipynb`](ideas-graph.ipynb).*
+
 The markdown files in this repository *are* a Relate store — [RelateDB](https://relatedb.ai), source at [github.com/relatedb/relate](https://github.com/relatedb/relate). Install the single binary, then open the repo root as a markdown-vault database:
 
 ```bash
@@ -58,6 +62,29 @@ Codec rules (markdown-vault snapshot format, ADR-0406 / ADR-0460):
 Hand-edits to the files re-ingest at the next open; Cypher writes re-render the files at checkpoint. Deleting a node deletes its file *and* the wikilinks pointing at it (prose mentions stay). Labels and keys compare case-insensitively — a case-only rename is a no-op that corrupts, so rename folders, not labels.
 
 The schema is versioned in [`vault-schema.cypher`](vault-schema.cypher); enrichment history and entity counts are in [`PLAN.md`](PLAN.md). The vault keeps entities that are linked at least twice; the full unpruned entity set (436 Technology, 218 Company, 79 Person files) lives in this repo's **first commit** — `git checkout $(git rev-list --max-parents=0 HEAD) -- Technology/ Company/ Person/` restores any of it.
+
+### What's in the graph
+
+The whole vault in one query — the technologies that show up across the most ideas:
+
+```cypher
+MATCH (p:Project)-[:USES_TECH]->(t:Technology)
+RETURN t.name AS technology, count(DISTINCT p) AS ideas
+ORDER BY ideas DESC, technology LIMIT 8
+```
+
+| technology | ideas |
+|---|---|
+| RelateDB | 177 |
+| Cypher | 167 |
+| WASM | 101 |
+| MCP | 37 |
+| Parquet | 28 |
+| Neo4j | 20 |
+| NetworkX | 20 |
+| Python | 20 |
+
+Swap the pattern for any other slice — `(p:Project)-[:IN_CATEGORY]->(c:Category)` counts ideas per category (`Tooling & Developer UX` 24, `Reference & Research Data` 19, `Infrastructure & Operations` 18, …), `(p)-[:MENTIONS_ORG]->(o:Company)` finds the most-cited vendors, and `(p)-[:RELATED_IDEA {kind: 'complements'}]->(q)` walks the idea graph itself.
 
 ---
 
