@@ -1,0 +1,4 @@
+---
+type: Technology
+name: Linkurious
+---

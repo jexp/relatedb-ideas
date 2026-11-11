@@ -1,0 +1,5 @@
+---
+type: Technology
+name: BoardGameGeek
+url: https://boardgamegeek.com/wiki/page/BGG_XML_API2
+---

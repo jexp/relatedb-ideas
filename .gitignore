@@ -1,0 +1,15 @@
+# Relate markdown-vault engine state (WAL, indexes, manifest, locks).
+# The .md files are the store; this sidecar is re-derivable at the next open.
+.cypherlite/
+.cypherlite.lock
+.cypherlite.writer
+
+# Regenerated views the engine rewrites at every checkpoint
+# (directory listing + dated changelog), root and per label folder.
+/index.md
+/log.md
+/*/index.md
+/*/log.md
+
+# Interactive render is regenerated from ideas-graph.ipynb
+ideas-graph.html
