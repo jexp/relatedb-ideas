@@ -4,17 +4,14 @@ name: graph-native-agent-memory
 IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
 MENTIONS_ORG:
-  - "[[Company/Mem0]]"
   - "[[Company/Neo4j]]"
   - "[[Company/Zep]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Graphiti]]"
-  - "[[Technology/Letta]]"
   - "[[Technology/MCP]]"
   - "[[Technology/Python]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Zep]]"
   - "[[Technology/mem0]]"
 ---
 

@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Content & Publishing]]"
 MENTIONS_ORG:
   - "[[Company/GitHub]]"
-  - "[[Company/Netlify]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as an example content source for a docs site
@@ -17,10 +16,8 @@ RELATED_IDEA:
     reason: one crawls a site into a graph, the other generates one from a graph
     target: "[[Project/sitemap-xml-to-site-graph]]"
 USES_TECH:
-  - "[[Technology/Astro]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Evidence]]"
-  - "[[Technology/Hugo]]"
   - "[[Technology/JSON]]"
   - "[[Technology/Python]]"
   - "[[Technology/RelateDB]]"

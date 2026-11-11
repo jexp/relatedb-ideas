@@ -15,7 +15,6 @@ RELATED_IDEA:
     target: "[[Project/use-case-gallery]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/DB Browser for SQLite]]"
   - "[[Technology/Datasette]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"

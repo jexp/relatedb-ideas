@@ -4,9 +4,7 @@ name: wiki-as-a-file
 IN_CATEGORY:
   - "[[Category/Knowledge Management & Notes]]"
 MENTIONS_ORG:
-  - "[[Company/Atlassian]]"
   - "[[Company/Kiwix]]"
-  - "[[Company/Notion]]"
   - "[[Company/Wikimedia Foundation]]"
 RELATED_IDEA:
   - kind: complements
@@ -21,10 +19,7 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Confluence]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/DokuWiki]]"
   - "[[Technology/Kiwix]]"
-  - "[[Technology/MediaWiki]]"
-  - "[[Technology/Notion]]"
   - "[[Technology/RelateDB]]"
 ---
 

@@ -16,7 +16,6 @@ USES_TECH:
   - "[[Technology/PGlite]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/sqlite-utils]]"
 ---
 
 # Graph Clipboard

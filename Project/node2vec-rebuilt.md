@@ -15,13 +15,8 @@ RELATED_IDEA:
     target: "[[Project/the-original-search-index-experiment]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/DeepWalk]]"
-  - "[[Technology/GraphSAGE]]"
-  - "[[Technology/Node2Vec]]"
-  - "[[Technology/Path2vec]]"
   - "[[Technology/Python]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Word2Vec]]"
 ---
 
 # Node2Vec, Rebuilt

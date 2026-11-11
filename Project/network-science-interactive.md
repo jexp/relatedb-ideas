@@ -3,9 +3,6 @@ type: Project
 name: network-science-interactive
 IN_CATEGORY:
   - "[[Category/Education & Learning]]"
-MENTIONS_ORG:
-  - "[[Company/Barabási Lab]]"
-  - "[[Company/Universitat Pompeu Fabra]]"
 MENTIONS_PERSON:
   - "[[Person/Albert-László Barabási]]"
 RELATED_IDEA:

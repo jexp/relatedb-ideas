@@ -4,7 +4,6 @@ name: sql-vs-cypher-live
 IN_CATEGORY:
   - "[[Category/Education & Learning]]"
 MENTIONS_ORG:
-  - "[[Company/DuckDB Foundation]]"
   - "[[Company/Neo4j]]"
 RELATED_IDEA:
   - kind: complements
@@ -16,7 +15,6 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/DuckDB WASM]]"
-  - "[[Technology/Gremlin]]"
   - "[[Technology/Neo4j]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQL]]"

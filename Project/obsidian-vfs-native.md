@@ -4,7 +4,6 @@ name: obsidian-vfs-native
 IN_CATEGORY:
   - "[[Category/Knowledge Management & Notes]]"
 MENTIONS_ORG:
-  - "[[Company/Logseq]]"
   - "[[Company/Obsidian]]"
 RELATED_IDEA:
   - kind: complements
@@ -17,8 +16,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Markdown]]"
   - "[[Technology/Obsidian]]"
-  - "[[Technology/Obsidian Dataview]]"
-  - "[[Technology/Org-roam]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

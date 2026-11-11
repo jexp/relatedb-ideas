@@ -3,11 +3,6 @@ type: Project
 name: buildings-are-graphs
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/Hoare Lea]]"
-MENTIONS_PERSON:
-  - "[[Person/Ali Ismail]]"
-  - "[[Person/Will Reynolds]]"
 RELATED_IDEA:
   - kind: complements
     reason: version-to-version IFC comparison rendered as a graph diff
@@ -19,7 +14,6 @@ USES_TECH:
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/ifcOpenShell]]"
 ---
 
 # Buildings are Graphs (BIM)

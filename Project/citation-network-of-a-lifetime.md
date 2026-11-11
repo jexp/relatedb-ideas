@@ -3,10 +3,6 @@ type: Project
 name: citation-network-of-a-lifetime
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/Crossref]]"
-  - "[[Company/OpenCitations]]"
-  - "[[Company/Zotero]]"
 MENTIONS_PERSON:
   - "[[Person/Mark Newman]]"
 RELATED_IDEA:
@@ -14,14 +10,10 @@ RELATED_IDEA:
     reason: the same citation queries at field scale rather than career scale
     target: "[[Project/arxiv-wedge]]"
 USES_TECH:
-  - "[[Technology/Better BibTeX]]"
-  - "[[Technology/CSL-JSON]]"
-  - "[[Technology/Crossref]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Netzschleuder]]"
   - "[[Technology/OpenCitation]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Zotero]]"
 ---
 
 # Citation Network of a Lifetime

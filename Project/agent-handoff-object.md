@@ -4,7 +4,6 @@ name: agent-handoff-object
 IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
 MENTIONS_ORG:
-  - "[[Company/AgentOps]]"
   - "[[Company/LangChain]]"
   - "[[Company/Zep]]"
 RELATED_IDEA:

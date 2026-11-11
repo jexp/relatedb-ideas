@@ -4,7 +4,6 @@ name: read-replica-in-your-pocket
 IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
 MENTIONS_ORG:
-  - "[[Company/Flipt]]"
   - "[[Company/Fly.io]]"
   - "[[Company/Neo4j]]"
   - "[[Company/Turso]]"
@@ -13,7 +12,6 @@ RELATED_IDEA:
     reason: same local-first replica and push-back sync pattern
     target: "[[Project/the-pouchdb-move]]"
 USES_TECH:
-  - "[[Technology/Aura]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Neo4j]]"
   - "[[Technology/RelateDB]]"

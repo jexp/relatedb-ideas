@@ -52,13 +52,34 @@ Project attribute: `category` (string, mirrors IN_CATEGORY for Obsidian usabilit
       enforced on writes and our data (one rel type over two endpoint-label pairs) cannot be
       expressed at all. Schema versioned as `vault-schema.cypher` in the repo.
 - [70] (done) Committed 4798941 and pushed to origin/main (946 files, 8413 insertions)
+- [80] (done) Entity-resolution audit: generation-time dedup was case-insensitive spelling +
+      manual ALIAS map only (no semantic resolution). Survivor scan found one real merge:
+      clickhouse-local -> ClickHouse. cosmos.gl / Cosmograph left separate (engine vs product).
+- [85] (done) Prune single-mention entities (deg <= 1, user-confirmed; first attempt used
+      deg <= 2 and was reset via git restore + sidecar rebuild). Deleted: Technology 324,
+      Person 70, Company 164 -> 384 nodes / 1,876 rels. `count { ()-[:REL]->(n) }` degree
+      pattern beats WITH+count(r) grouping. Verified: node delete removes the .md file
+      AND the wikilinks in referencing files; prose mentions stay.
 
 ## Follow-ups (parked)
 
-- relate docs should cover VFS options / markdown mode + Odyssey vault pointer
+- relate docs should cover VFS options / markdown mode + Odyssey vault pointer (filed internally)
 - graph types — one rel type cannot cover two endpoint-label pairs; promotion
-  error names neither the type nor the edge
+  error names neither the type nor the edge (filed internally)
 - NVL clustering options had no visible effect on the layout in neo4j-viz 1.13
 - Separate branch: neo4j-graphrag via `relate serve` (Bolt) against this schema for
   entity extraction; investigate disabling the lexical-graph side (Document/Chunk
   nodes + rels) that SimpleKGPipeline writes into the backend db
+
+## Open-source cleanup (2026-11-11)
+
+- [110] (done) Leak audit: no emails/keys/paths; removed the Neo4j Slack +
+      Twitch dump Drive links (developer-social-networks.md rewritten clean)
+      and all internal Linear ticket references
+- [120] (done) README: relatedb.ai links, pre-prune entity reference moved to
+      the first commit of the rewritten history
+- [130] (done) `.agents/skills/relatedb-ideas/SKILL.md` — agent instructions for
+      querying the vault with relate
+- [140] (done) ideas-graph.svg/png regenerated from the pruned vault (384 nodes)
+- [150] (done) History rewritten to two commits: full pre-prune entity set
+      (scrubbed), then the cleanup state

@@ -21,9 +21,7 @@ USES_TECH:
   - "[[Technology/JSONL]]"
   - "[[Technology/MCP]]"
   - "[[Technology/Neo4j GDS]]"
-  - "[[Technology/PRQL]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/dbt]]"
 ---
 
 # Cypher on Cypher

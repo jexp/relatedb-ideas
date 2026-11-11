@@ -4,8 +4,6 @@ name: living-worlds-for-npcs
 IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
 MENTIONS_ORG:
-  - "[[Company/Kanka]]"
-  - "[[Company/World Anvil]]"
   - "[[Company/Zep]]"
 RELATED_IDEA:
   - kind: complements

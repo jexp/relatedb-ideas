@@ -3,11 +3,6 @@ type: Project
 name: molecules-as-graphs
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
-MENTIONS_ORG:
-  - "[[Company/EMBL-EBI]]"
-  - "[[Company/NCBI]]"
-MENTIONS_PERSON:
-  - "[[Person/Peter Willett]]"
 RELATED_IDEA:
   - kind: complements
     reason: another of science's original graphs made locally queryable
@@ -16,14 +11,8 @@ RELATED_IDEA:
     reason: same local-first treatment of a canonical scientific graph
     target: "[[Project/tree-of-life-locally]]"
 USES_TECH:
-  - "[[Technology/ChEMBL]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/PubChem]]"
-  - "[[Technology/RDKit]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/SDF]]"
-  - "[[Technology/SMARTS]]"
-  - "[[Technology/SMILES]]"
 ---
 
 # Molecules as Graphs

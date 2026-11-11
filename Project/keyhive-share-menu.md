@@ -4,9 +4,7 @@ name: keyhive-share-menu
 IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
-  - "[[Company/IndyKite]]"
   - "[[Company/Ink & Switch]]"
-  - "[[Company/Nulli]]"
 RELATED_IDEA:
   - kind: complements
     reason: the agent-permission framing; this is its data-layer counterpart
@@ -18,7 +16,6 @@ RELATED_IDEA:
     reason: the temporal-query pattern applied here to access history
     target: "[[Project/graph-native-agent-memory]]"
 USES_TECH:
-  - "[[Technology/AuthZEN]]"
   - "[[Technology/Bolt]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Keyhive]]"

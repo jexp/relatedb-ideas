@@ -16,12 +16,10 @@ RELATED_IDEA:
     reason: generalizes the ICIJ Offshore Leaks ownership-network model to any register
     target: "[[Project/icij-in-a-browser-tab]]"
 USES_TECH:
-  - "[[Technology/Companies House]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/ICIJ Offshore Leaks]]"
   - "[[Technology/Kuzu]]"
   - "[[Technology/OpenAleph]]"
-  - "[[Technology/OpenCorporates]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

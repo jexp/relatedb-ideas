@@ -5,9 +5,7 @@ IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
   - "[[Company/European Union]]"
-  - "[[Company/GovTrack]]"
   - "[[Company/OCCRP]]"
-  - "[[Company/OpenSecrets]]"
 RELATED_IDEA:
   - kind: complements
     reason: applies the OCCRP Aleph follow-the-money model to lobbying disclosure
@@ -16,13 +14,8 @@ RELATED_IDEA:
     reason: same disclosure-and-vote graph read for influence rather than conflicts
     target: "[[Project/conflict-of-interest-finder]]"
 USES_TECH:
-  - "[[Technology/Akoma Ntoso]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/DIP API]]"
-  - "[[Technology/EU Transparency Register]]"
-  - "[[Technology/GovTrack]]"
   - "[[Technology/Neo4j]]"
-  - "[[Technology/OpenSecrets]]"
   - "[[Technology/RelateDB]]"
 ---
 

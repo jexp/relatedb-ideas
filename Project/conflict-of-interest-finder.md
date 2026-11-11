@@ -4,7 +4,6 @@ name: conflict-of-interest-finder
 IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
-  - "[[Company/GIJN]]"
   - "[[Company/OCCRP]]"
   - "[[Company/Senzing]]"
 RELATED_IDEA:

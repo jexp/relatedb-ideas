@@ -5,21 +5,14 @@ IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
   - "[[Company/Diffbot]]"
-  - "[[Company/Duke Reporters Lab]]"
   - "[[Company/GDELT]]"
   - "[[Company/ICIJ]]"
-  - "[[Company/University of Texas at Arlington]]"
-MENTIONS_PERSON:
-  - "[[Person/Leo Meyerovich]]"
 RELATED_IDEA:
   - kind: complements
     reason: provenance chains for claims built from recorded judgments
     target: "[[Project/the-judgment-ledger]]"
 USES_TECH:
-  - "[[Technology/ClaimBuster]]"
-  - "[[Technology/ClaimReview]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Diffbot Knowledge Graph]]"
   - "[[Technology/GDELT]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"

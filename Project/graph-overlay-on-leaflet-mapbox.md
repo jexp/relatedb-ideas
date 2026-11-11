@@ -4,7 +4,6 @@ name: graph-overlay-on-leaflet-mapbox
 IN_CATEGORY:
   - "[[Category/Visualization & Rendering]]"
 MENTIONS_ORG:
-  - "[[Company/Mapbox]]"
   - "[[Company/Neo4j]]"
   - "[[Company/OpenStreetMap Foundation]]"
 RELATED_IDEA:
@@ -16,13 +15,8 @@ RELATED_IDEA:
     target: "[[Project/openstreetmap-wedge]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Kepler.gl]]"
-  - "[[Technology/Leaflet]]"
-  - "[[Technology/Mapbox GL JS]]"
   - "[[Technology/OpenStreetMap]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/deck.gl]]"
-  - "[[Technology/flowmap.gl]]"
 ---
 
 # Graph Overlay on Leaflet/Mapbox

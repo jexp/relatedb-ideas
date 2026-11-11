@@ -11,8 +11,6 @@ RELATED_IDEA:
     target: "[[Project/gds-round-trip]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/DuckPGQ]]"
-  - "[[Technology/Graphicle]]"
   - "[[Technology/Neo4j GDS]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/Python]]"

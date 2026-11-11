@@ -5,8 +5,6 @@ IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
 MENTIONS_ORG:
   - "[[Company/Google]]"
-  - "[[Company/Libraries.io]]"
-  - "[[Company/OpenSSF]]"
 RELATED_IDEA:
   - kind: complements
     reason: private per-repo lockfile graph plugged into this public ecosystem
@@ -20,7 +18,6 @@ USES_TECH:
   - "[[Technology/OSV]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/deps.dev]]"
 ---
 
 # Transitive Dependency Networks

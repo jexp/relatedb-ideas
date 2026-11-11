@@ -1,4 +1,0 @@
----
-type: Technology
-name: TCX
----

@@ -4,8 +4,6 @@ name: history-as-graph
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
-  - "[[Company/EverythingGraph]]"
-  - "[[Company/Histropedia]]"
   - "[[Company/Wikimedia Foundation]]"
 RELATED_IDEA:
   - kind: complements

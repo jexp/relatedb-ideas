@@ -10,10 +10,8 @@ RELATED_IDEA:
     reason: both route over GPX trail segments stored as a graph
     target: "[[Project/running-cycling-hiking-graph]]"
 USES_TECH:
-  - "[[Technology/BRouter]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/GPX]]"
-  - "[[Technology/GTFS]]"
   - "[[Technology/Kuzu]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/RelateDB]]"

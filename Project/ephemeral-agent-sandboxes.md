@@ -6,7 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Anthropic]]"
   - "[[Company/Kuzu]]"
-  - "[[Company/Letta]]"
 RELATED_IDEA:
   - kind: complements
     reason: per-subagent isolation matches the agent-org structure it models

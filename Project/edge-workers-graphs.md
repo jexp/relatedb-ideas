@@ -14,10 +14,7 @@ RELATED_IDEA:
     reason: pushing the same engine into another constrained runtime target
     target: "[[Project/graph-on-a-microcontroller]]"
 USES_TECH:
-  - "[[Technology/Cloudflare R2]]"
-  - "[[Technology/Cloudflare Workers]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Durable Objects]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"

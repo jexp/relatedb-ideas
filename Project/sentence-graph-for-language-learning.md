@@ -3,10 +3,6 @@ type: Project
 name: sentence-graph-for-language-learning
 IN_CATEGORY:
   - "[[Category/Education & Learning]]"
-MENTIONS_ORG:
-  - "[[Company/Tatoeba]]"
-MENTIONS_PERSON:
-  - "[[Person/Stephen Krashen]]"
 RELATED_IDEA:
   - kind: complements
     reason: shares the graph-as-learning-substrate premise
@@ -15,12 +11,9 @@ RELATED_IDEA:
     reason: both model language structure as a traversable graph
     target: "[[Project/wordnet-but-queryable]]"
 USES_TECH:
-  - "[[Technology/Anki]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/SuperMemo]]"
-  - "[[Technology/Tatoeba]]"
   - "[[Technology/relate-arrow]]"
 ---
 

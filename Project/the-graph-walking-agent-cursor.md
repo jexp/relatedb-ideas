@@ -20,7 +20,6 @@ USES_TECH:
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/neo4jev]]"
 ---
 
 # The Graph-Walking Agent Cursor

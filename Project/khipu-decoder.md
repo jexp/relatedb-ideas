@@ -3,9 +3,6 @@ type: Project
 name: khipu-decoder
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/Khipu Database Project]]"
-  - "[[Company/UNESCO]]"
 RELATED_IDEA:
   - kind: complements
     reason: the multiple-interpretations ledger pattern reused for rival khipu readings
@@ -15,7 +12,6 @@ RELATED_IDEA:
     target: "[[Project/the-hnr-humanities-pack]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Open Khipu Repository]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

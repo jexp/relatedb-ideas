@@ -6,7 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Apple]]"
   - "[[Company/Google]]"
-  - "[[Company/MIT Media Lab]]"
 RELATED_IDEA:
   - kind: complements
     reason: same WAL plus derived-edge architecture proven for machine traces
@@ -22,8 +21,6 @@ RELATED_IDEA:
     target: "[[Project/software-design-x-rays]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Enron Corpus]]"
-  - "[[Technology/ICS]]"
   - "[[Technology/IMAP]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SNAP]]"

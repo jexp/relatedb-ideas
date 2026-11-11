@@ -4,14 +4,11 @@ name: graphclips-heroku-dataclips-reborn
 IN_CATEGORY:
   - "[[Category/Content & Publishing]]"
 MENTIONS_ORG:
-  - "[[Company/Heroku]]"
   - "[[Company/Neo4j]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Datasette]]"
   - "[[Technology/Evidence]]"
-  - "[[Technology/Heroku Dataclips]]"
-  - "[[Technology/Huey]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

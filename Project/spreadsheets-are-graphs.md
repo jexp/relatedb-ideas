@@ -3,10 +3,6 @@ type: Project
 name: spreadsheets-are-graphs
 IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
-MENTIONS_ORG:
-  - "[[Company/TU Delft]]"
-MENTIONS_PERSON:
-  - "[[Person/Felienne Hermans]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as the plain-data corner of the same move
@@ -18,11 +14,9 @@ RELATED_IDEA:
     reason: cited as the umbrella idea this pitch accidentally proved
     target: "[[Project/the-intentional-graph-workbench]]"
 USES_TECH:
-  - "[[Technology/Breviz]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/XLSX]]"
 ---
 
 # Spreadsheets are Graphs

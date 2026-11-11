@@ -4,7 +4,6 @@ name: wikipedia-wedge
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
-  - "[[Company/DBpedia]]"
   - "[[Company/Wikimedia Foundation]]"
 RELATED_IDEA:
   - kind: same-data
@@ -21,12 +20,10 @@ RELATED_IDEA:
     target: "[[Project/wikipedia-in-your-pocket]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/DBpedia]]"
   - "[[Technology/Kiwix]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/Wikimedia Dumps]]"
   - "[[Technology/Wikipedia]]"
 ---
 

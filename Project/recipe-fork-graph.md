@@ -6,10 +6,8 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Neo4j]]"
 MENTIONS_PERSON:
-  - "[[Person/Luanne Misquitta]]"
   - "[[Person/Mark Needham]]"
   - "[[Person/Rik van Bruggen]]"
-  - "[[Person/Yong-Yeol Ahn]]"
 RELATED_IDEA:
   - kind: complements
     reason: shares the dietary and substitution edge model from the diner's side

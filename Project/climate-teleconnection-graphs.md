@@ -3,14 +3,6 @@ type: Project
 name: climate-teleconnection-graphs
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
-MENTIONS_ORG:
-  - "[[Company/ECMWF]]"
-  - "[[Company/NOAA]]"
-  - "[[Company/Potsdam Institute for Climate Impact Research]]"
-MENTIONS_PERSON:
-  - "[[Person/Anastasios Tsonis]]"
-  - "[[Person/Jürgen Kurths]]"
-  - "[[Person/Paul Roebber]]"
 RELATED_IDEA:
   - kind: complements
     reason: named as the rendering tier for large climate networks
@@ -20,8 +12,6 @@ RELATED_IDEA:
     target: "[[Project/animated-graph-timelapse]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/ERA5]]"
-  - "[[Technology/NOAA]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

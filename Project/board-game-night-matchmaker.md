@@ -3,10 +3,7 @@ type: Project
 name: board-game-night-matchmaker
 IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
-MENTIONS_ORG:
-  - "[[Company/BoardGameGeek]]"
 USES_TECH:
-  - "[[Technology/BoardGameGeek]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"

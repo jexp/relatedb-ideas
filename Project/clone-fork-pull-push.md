@@ -16,7 +16,6 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Bolt]]"
   - "[[Technology/HTTP]]"
-  - "[[Technology/Neo4j Query API]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/Turso]]"

@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Content & Publishing]]"
 MENTIONS_ORG:
   - "[[Company/GroupLens]]"
-  - "[[Company/JustWatch]]"
 RELATED_IDEA:
   - kind: complements
     reason: shared store and import lineage for the couch-side consumer

@@ -9,13 +9,11 @@ MENTIONS_ORG:
   - "[[Company/Neo4j]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/FalkorDB DepGraph]]"
   - "[[Technology/GUAC]]"
   - "[[Technology/Home Assistant]]"
   - "[[Technology/Raspberry Pi]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WAL]]"
-  - "[[Technology/nmap]]"
 ---
 
 # Home Network Atlas

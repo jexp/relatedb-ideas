@@ -21,9 +21,7 @@ RELATED_IDEA:
     target: "[[Project/wikipedia-wedge]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Fandom]]"
   - "[[Technology/MCP]]"
-  - "[[Technology/MediaWiki API]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

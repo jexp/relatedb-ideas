@@ -13,8 +13,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Graphiti]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/TextWorld]]"
-  - "[[Technology/cognee]]"
   - "[[Technology/mem0]]"
 ---
 

@@ -5,15 +5,12 @@ IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
 MENTIONS_ORG:
   - "[[Company/European Union]]"
-  - "[[Company/FDA]]"
-  - "[[Company/NYC Health Department]]"
 RELATED_IDEA:
   - kind: complements
     reason: queries the same kitchen ingredient graph from the diner's side
     target: "[[Project/recipe-fork-graph]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/MenuStat]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

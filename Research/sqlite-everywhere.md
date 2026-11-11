@@ -10,11 +10,7 @@ INFORMS:
 IN_CATEGORY:
   - "[[Category/Research]]"
 MENTIONS_ORG:
-  - "[[Company/Mozilla]]"
-  - "[[Company/Tencent]]"
   - "[[Company/Turso]]"
-MENTIONS_PERSON:
-  - "[[Person/Richard Hipp]]"
 RELATED_IDEA:
   - kind: same-data
     reason: Gramps stores family trees in SQLite as blobs that want to be a property graph
@@ -35,7 +31,6 @@ USES_TECH:
   - "[[Technology/SQLite]]"
   - "[[Technology/Turso]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/osquery]]"
 ---
 
 # Research findings: SQLite runs the world — how much of it is secretly graph-shaped?

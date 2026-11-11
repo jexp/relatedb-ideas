@@ -3,11 +3,6 @@ type: Project
 name: state-space-puzzle-solver
 IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
-MENTIONS_ORG:
-  - "[[Company/The New York Times]]"
-MENTIONS_PERSON:
-  - "[[Person/John Hughes]]"
-  - "[[Person/Lewis Carroll]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as the storage shape for millions of small state subgraphs
@@ -16,7 +11,6 @@ RELATED_IDEA:
     reason: same search-space-as-graph treatment for a game
     target: "[[Project/opening-theory-explorer]]"
 USES_TECH:
-  - "[[Technology/A-Star Search]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/DuckDB]]"
   - "[[Technology/Python]]"

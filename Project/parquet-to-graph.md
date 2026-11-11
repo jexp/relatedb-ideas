@@ -13,14 +13,11 @@ RELATED_IDEA:
     reason: same load-a-folder-into-a-graph wedge over a different file format
     target: "[[Project/csv-to-graph-instantly]]"
 USES_TECH:
-  - "[[Technology/Apache Arrow]]"
   - "[[Technology/ClickHouse]]"
   - "[[Technology/DuckDB]]"
   - "[[Technology/Kuzu]]"
   - "[[Technology/Parquet]]"
-  - "[[Technology/Polars]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Spark]]"
 ---
 
 # Parquet → Graph

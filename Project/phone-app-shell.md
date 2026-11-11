@@ -21,11 +21,8 @@ RELATED_IDEA:
     target: "[[Project/on-device-agent-graph-store]]"
 USES_TECH:
   - "[[Technology/C ABI]]"
-  - "[[Technology/Kotlin]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"
-  - "[[Technology/Swift]]"
-  - "[[Technology/iCloud]]"
 ---
 
 # The Phone App Shell

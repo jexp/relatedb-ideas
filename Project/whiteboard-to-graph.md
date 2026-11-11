@@ -3,10 +3,6 @@ type: Project
 name: whiteboard-to-graph
 IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
-MENTIONS_ORG:
-  - "[[Company/Excalidraw]]"
-  - "[[Company/Zackriya Solutions]]"
-  - "[[Company/tldraw]]"
 RELATED_IDEA:
   - kind: complements
     reason: correction loop for the extracted graph
@@ -15,12 +11,9 @@ RELATED_IDEA:
     reason: where the extracted graph goes next
     target: "[[Project/the-intentional-graph-workbench]]"
 USES_TECH:
-  - "[[Technology/Excalidraw]]"
   - "[[Technology/Mermaid]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/diagram2graph]]"
-  - "[[Technology/tldraw]]"
   - "[[Technology/transformers.js]]"
   - "[[Technology/web-llm]]"
 ---

@@ -9,7 +9,6 @@ RELATED_IDEA:
     target: "[[Project/architecture-diagram-that-never-lies]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Helm]]"
   - "[[Technology/Kubernetes]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"

@@ -10,14 +10,10 @@ RELATED_IDEA:
     reason: the same drop-into-an-existing-ecosystem argument, applied to GraphQL clients
     target: "[[Project/the-driver-that-isnt]]"
 USES_TECH:
-  - "[[Technology/Apollo]]"
   - "[[Technology/Bolt]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/GraphQL]]"
-  - "[[Technology/GraphiQL]]"
-  - "[[Technology/Neo4j GraphQL Library]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/neo4j-graphql]]"
 ---
 
 # GraphQL, Straight from the Engine

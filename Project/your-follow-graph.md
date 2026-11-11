@@ -13,8 +13,6 @@ USES_TECH:
   - "[[Technology/NetworkX]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/sql.js]]"
-  - "[[Technology/sqlite-vec]]"
 ---
 
 # Your Follow Graph

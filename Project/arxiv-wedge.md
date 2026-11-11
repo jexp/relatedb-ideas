@@ -3,13 +3,8 @@ type: Project
 name: arxiv-wedge
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/Allen Institute for AI]]"
-  - "[[Company/arXiv]]"
 MENTIONS_PERSON:
   - "[[Person/Albert-László Barabási]]"
-  - "[[Person/Henry Small]]"
-  - "[[Person/Howard White]]"
 RELATED_IDEA:
   - kind: complements
     reason: community-detection labels land back in the store via the GDS round-trip
@@ -20,9 +15,7 @@ USES_TECH:
   - "[[Technology/Netzschleuder]]"
   - "[[Technology/OpenCitation]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Semantic Scholar]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/arXiv]]"
 ---
 
 # arXiv Wedge

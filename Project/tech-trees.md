@@ -5,10 +5,6 @@ IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
 MENTIONS_ORG:
   - "[[Company/Cornell University]]"
-  - "[[Company/Firaxis Games]]"
-  - "[[Company/Wube Software]]"
-MENTIONS_PERSON:
-  - "[[Person/Sid Meier]]"
 RELATED_IDEA:
   - kind: variant
     reason: both make a game's decision tree an explorable queryable graph
@@ -18,9 +14,7 @@ RELATED_IDEA:
     target: "[[Project/state-space-puzzle-solver]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Factorio]]"
   - "[[Technology/JSON]]"
-  - "[[Technology/Lua]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

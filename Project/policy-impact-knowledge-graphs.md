@@ -3,8 +3,6 @@ type: Project
 name: policy-impact-knowledge-graphs
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/DeepMind]]"
 RELATED_IDEA:
   - kind: complements
     reason: supplies the at-date worldview machinery for belief replay

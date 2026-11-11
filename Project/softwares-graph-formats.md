@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
   - "[[Company/Arize AI]]"
-  - "[[Company/Eclipse Foundation]]"
   - "[[Company/Oracle]]"
 RELATED_IDEA:
   - kind: complements
@@ -28,7 +27,6 @@ USES_TECH:
   - "[[Technology/OpenTelemetry]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/hprof]]"
 ---
 
 # Software's Graph Formats

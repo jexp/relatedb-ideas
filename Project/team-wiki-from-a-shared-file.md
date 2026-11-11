@@ -18,7 +18,6 @@ USES_TECH:
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
   - "[[Technology/cr-sqlite]]"
-  - "[[Technology/litetree]]"
   - "[[Technology/sqlsync]]"
 ---
 

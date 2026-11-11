@@ -26,9 +26,11 @@
 // `.cypherlite/schema/graph-type.cypher` (ADR-0481) only renders the *current*
 // type, so it stays absent here; this file is the schema's versioned source.
 //
-// Counts at declaration time: 941 nodes / 2,432 relationships
-// (Project 180, Research 11, Technology 436, Company 218, Person 79, Category 15,
-// Vault 2).
+// Counts after the 2026-11-08 single-mention prune (entities kept when linked
+// >= 2 times; clickhouse-local merged into ClickHouse): 384 nodes / 1,876
+// relationships (Project 180, Research 11, Technology 113, Company 54,
+// Person 9, Category 15, Vault 2). Before the prune: 941 / 2,432
+// (Technology 436, Company 218, Person 79) — see git history.
 
 CREATE GRAPH TYPE ideasGraph AS {
   (v:Vault => {name :: STRING NOT NULL, text :: STRING}),

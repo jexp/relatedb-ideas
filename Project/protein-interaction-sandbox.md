@@ -3,11 +3,6 @@ type: Project
 name: protein-interaction-sandbox
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
-MENTIONS_ORG:
-  - "[[Company/BioGRID]]"
-  - "[[Company/KEGG]]"
-  - "[[Company/Reactome]]"
-  - "[[Company/STRING Consortium]]"
 RELATED_IDEA:
   - kind: complements
     reason: supplies score propagation over the weighted interaction graph
@@ -16,14 +11,10 @@ RELATED_IDEA:
     reason: the molecular layer beneath the protein interaction slice
     target: "[[Project/molecules-as-graphs]]"
 USES_TECH:
-  - "[[Technology/BioGRID]]"
   - "[[Technology/DuckDB]]"
-  - "[[Technology/KEGG]]"
   - "[[Technology/Kuzu]]"
   - "[[Technology/NetworkX]]"
-  - "[[Technology/Reactome]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/STRING]]"
 ---
 
 # Protein Interaction Sandbox

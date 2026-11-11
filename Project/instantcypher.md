@@ -23,8 +23,6 @@ USES_TECH:
   - "[[Technology/PostgreSQL]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"
-  - "[[Technology/System One]]"
-  - "[[Technology/pg-jev]]"
 ---
 
 # InstantCypher

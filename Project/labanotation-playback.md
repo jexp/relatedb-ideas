@@ -3,10 +3,6 @@ type: Project
 name: labanotation-playback
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/Dance Notation Bureau]]"
-MENTIONS_PERSON:
-  - "[[Person/Rudolf Laban]]"
 RELATED_IDEA:
   - kind: complements
     reason: the playback pattern the score timeline reuses
@@ -16,9 +12,6 @@ RELATED_IDEA:
     target: "[[Project/the-hnr-humanities-pack]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Graph Attention Networks]]"
-  - "[[Technology/LabanXML]]"
-  - "[[Technology/Labanotation]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

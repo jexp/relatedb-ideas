@@ -6,10 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/GDELT]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/UNCTAD]]"
-  - "[[Company/World Bank]]"
-MENTIONS_PERSON:
-  - "[[Person/Roger Guimerà]]"
 RELATED_IDEA:
   - kind: complements
     reason: shares re-routing and exposure analysis under disruption
@@ -21,13 +17,8 @@ RELATED_IDEA:
     reason: same chokepoint and resilience queries over another infrastructure network
     target: "[[Project/power-water-grid-twins]]"
 USES_TECH:
-  - "[[Technology/AIS]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/GDS]]"
-  - "[[Technology/Marine Cadastre]]"
-  - "[[Technology/Neo4j Graph Examples]]"
   - "[[Technology/NetworkX]]"
-  - "[[Technology/OpenFlights]]"
   - "[[Technology/RelateDB]]"
 ---
 

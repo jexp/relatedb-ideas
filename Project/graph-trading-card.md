@@ -15,9 +15,6 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/C ABI]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/NFC]]"
-  - "[[Technology/NTAG]]"
-  - "[[Technology/QR Code]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WAL]]"
 ---

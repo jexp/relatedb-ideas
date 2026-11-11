@@ -6,7 +6,6 @@ IN_CATEGORY:
 MENTIONS_PERSON:
   - "[[Person/Albert-László Barabási]]"
   - "[[Person/Andrew Beveridge]]"
-  - "[[Person/Jie Shan]]"
   - "[[Person/Mark Newman]]"
 RELATED_IDEA:
   - kind: variant
@@ -18,7 +17,6 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Neo4j GDS]]"
-  - "[[Technology/Network of Thrones]]"
   - "[[Technology/RelateDB]]"
 ---
 

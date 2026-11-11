@@ -3,15 +3,6 @@ type: Project
 name: architecture-graphs-in-production
 IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
-MENTIONS_ORG:
-  - "[[Company/Airbnb]]"
-  - "[[Company/Amadeus]]"
-  - "[[Company/Financial Times]]"
-  - "[[Company/Lyft]]"
-  - "[[Company/Uber]]"
-MENTIONS_PERSON:
-  - "[[Person/Rhys Evans]]"
-  - "[[Person/Thomas Lawrence]]"
 RELATED_IDEA:
   - kind: complements
     reason: the config-layer sibling this graph mounts
@@ -20,8 +11,6 @@ RELATED_IDEA:
     reason: the same blast-radius instinct at LAN scale
     target: "[[Project/home-network-atlas]]"
 USES_TECH:
-  - "[[Technology/Amundsen]]"
-  - "[[Technology/Cartography]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Kubernetes]]"
   - "[[Technology/Neo4j]]"

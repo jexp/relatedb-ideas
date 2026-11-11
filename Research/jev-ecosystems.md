@@ -12,11 +12,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Neo4j]]"
   - "[[Company/TypeSafe AI]]"
-MENTIONS_PERSON:
-  - "[[Person/Armin Ronacher]]"
-  - "[[Person/Diogo Almeida]]"
-  - "[[Person/Kervin Hu]]"
-  - "[[Person/William Lyon]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: JEV decisions compiled to deterministic Cypher is the empty lane this audit names

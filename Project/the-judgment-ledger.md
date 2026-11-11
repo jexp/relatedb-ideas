@@ -3,8 +3,6 @@ type: Project
 name: the-judgment-ledger
 IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
-MENTIONS_ORG:
-  - "[[Company/Hyperspace AI]]"
 RELATED_IDEA:
   - kind: complements
     reason: execution-side twin of the judgment record
@@ -19,12 +17,10 @@ RELATED_IDEA:
     reason: audits the recorded walk hops
     target: "[[Project/the-graph-walking-agent-cursor]]"
 USES_TECH:
-  - "[[Technology/Canny]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/JSONL]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WAL]]"
-  - "[[Technology/jevcache]]"
 ---
 
 # The Judgment Ledger

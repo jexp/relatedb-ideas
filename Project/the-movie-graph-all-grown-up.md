@@ -5,9 +5,7 @@ IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
   - "[[Company/GroupLens]]"
-  - "[[Company/IMDB]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/TMDB]]"
 RELATED_IDEA:
   - kind: complements
     reason: same movie store aimed at one evening

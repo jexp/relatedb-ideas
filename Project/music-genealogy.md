@@ -7,9 +7,6 @@ MENTIONS_ORG:
   - "[[Company/Discogs]]"
   - "[[Company/MusicBrainz]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/WhoSampled]]"
-MENTIONS_PERSON:
-  - "[[Person/Paul Tremberth]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Discogs]]"
@@ -17,8 +14,6 @@ USES_TECH:
   - "[[Technology/Neo4j]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/WhoSampled]]"
-  - "[[Technology/setlist.fm]]"
 ---
 
 # Music Genealogy

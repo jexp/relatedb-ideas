@@ -7,7 +7,6 @@ MENTIONS_ORG:
   - "[[Company/Cornell University]]"
   - "[[Company/Gephi]]"
 MENTIONS_PERSON:
-  - "[[Person/Donald Knuth]]"
   - "[[Person/Mark Newman]]"
 RELATED_IDEA:
   - kind: complements

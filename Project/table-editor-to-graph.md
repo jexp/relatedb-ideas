@@ -5,8 +5,6 @@ IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
   - "[[Company/Graphileon]]"
-MENTIONS_PERSON:
-  - "[[Person/Markus Wissing]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as the canvas-native skin of the same workbench
@@ -19,7 +17,6 @@ RELATED_IDEA:
     target: "[[Project/the-intentional-graph-workbench]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Graphileon InterActor]]"
   - "[[Technology/Neo4j]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"

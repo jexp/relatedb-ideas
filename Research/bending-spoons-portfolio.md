@@ -11,16 +11,7 @@ IN_CATEGORY:
   - "[[Category/Research]]"
 MENTIONS_ORG:
   - "[[Company/Bending Spoons]]"
-  - "[[Company/Evernote]]"
-  - "[[Company/Kialo]]"
-  - "[[Company/Komoot]]"
   - "[[Company/Meetup]]"
-MENTIONS_PERSON:
-  - "[[Person/Errikos Pitsos]]"
-  - "[[Person/Francesco Patarnello]]"
-  - "[[Person/Luca Ferrari]]"
-  - "[[Person/Luca Querella]]"
-  - "[[Person/Matteo Danieli]]"
 RELATED_IDEA:
   - kind: variant
     reason: Kialo debate trees are the same typed pro/con graph this idea maps
@@ -36,7 +27,6 @@ RELATED_IDEA:
     target: "[[Project/wiki-as-a-file]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/ENEX]]"
   - "[[Technology/GPX]]"
   - "[[Technology/RelateDB]]"
 ---

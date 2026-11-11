@@ -5,9 +5,7 @@ IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
   - "[[Company/FalkorDB]]"
-  - "[[Company/GUAC]]"
   - "[[Company/GitHub]]"
-  - "[[Company/Mimecast]]"
   - "[[Company/Sourcegraph]]"
 RELATED_IDEA:
   - kind: complements
@@ -20,13 +18,9 @@ RELATED_IDEA:
     reason: the same dependency graph read as structure rather than vulnerability exposure
     target: "[[Project/transitive-dependency-networks]]"
 USES_TECH:
-  - "[[Technology/CycloneDX]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/NVD]]"
   - "[[Technology/OSV]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/SBOM]]"
-  - "[[Technology/SPDX]]"
   - "[[Technology/tree-sitter]]"
 ---
 

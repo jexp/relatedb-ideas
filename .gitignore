@@ -13,3 +13,5 @@
 
 # Interactive render is regenerated from ideas-graph.ipynb
 ideas-graph.html
+
+.ipynb_checkpoints/

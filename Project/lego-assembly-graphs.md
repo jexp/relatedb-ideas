@@ -3,9 +3,6 @@ type: Project
 name: lego-assembly-graphs
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/LDraw]]"
-  - "[[Company/Rebrickable]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: reference-vs-build divergence mirrors the lens-across-time pattern
@@ -18,8 +15,6 @@ RELATED_IDEA:
     target: "[[Project/use-case-gallery]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/LDraw]]"
-  - "[[Technology/Rebrickable]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

@@ -6,17 +6,12 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Diffbot]]"
   - "[[Company/GDELT]]"
-MENTIONS_PERSON:
-  - "[[Person/Deb Roy]]"
-  - "[[Person/Sinan Aral]]"
-  - "[[Person/Soroush Vosoughi]]"
 RELATED_IDEA:
   - kind: same-data
     reason: overlays the claimed graph on the Fact-Check Engine's evidence layer and importers
     target: "[[Project/the-fact-check-engine]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Diffbot]]"
   - "[[Technology/GDELT]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"

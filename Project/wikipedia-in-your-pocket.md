@@ -23,8 +23,6 @@ USES_TECH:
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"
   - "[[Technology/Turso]]"
-  - "[[Technology/ZIM]]"
-  - "[[Technology/libsql]]"
 ---
 
 # Wikipedia in Your Pocket

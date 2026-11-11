@@ -3,16 +3,11 @@ type: Project
 name: karaoke-set-list-weaver
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/Mixed In Key]]"
-  - "[[Company/Spotify]]"
 USES_TECH:
   - "[[Technology/Arrow]]"
-  - "[[Technology/Camelot Wheel]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Python]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Spotify Web API]]"
   - "[[Technology/WASM]]"
 ---
 

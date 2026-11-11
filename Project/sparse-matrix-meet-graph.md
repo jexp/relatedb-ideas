@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
 MENTIONS_ORG:
   - "[[Company/DuckDB Labs]]"
-  - "[[Company/Texas A&M University]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as the numeric runtime the export bridge feeds
@@ -13,11 +12,8 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/DuckDB]]"
-  - "[[Technology/Matrix Market]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/SciPy]]"
-  - "[[Technology/SuiteSparse Matrix Collection]]"
 ---
 
 # Sparse Matrix, Meet Graph

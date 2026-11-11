@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Import, ETL & Data Sources]]"
 MENTIONS_ORG:
   - "[[Company/Hugging Face]]"
-  - "[[Company/Kaggle]]"
   - "[[Company/Stanford University]]"
 RELATED_IDEA:
   - kind: complements
@@ -14,8 +13,6 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/CSV]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Hugging Face Datasets]]"
-  - "[[Technology/Kaggle]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SNAP]]"

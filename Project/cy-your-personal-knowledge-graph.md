@@ -4,8 +4,6 @@ name: cy-your-personal-knowledge-graph
 IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
 MENTIONS_ORG:
-  - "[[Company/Amazon]]"
-  - "[[Company/Asana]]"
   - "[[Company/Clay]]"
   - "[[Company/Obsidian]]"
   - "[[Company/Zep]]"
@@ -20,10 +18,8 @@ RELATED_IDEA:
     reason: workspace documents and messages as one shared graph artifact
     target: "[[Project/team-wiki-from-a-shared-file]]"
 USES_TECH:
-  - "[[Technology/CalDAV]]"
   - "[[Technology/Confluence]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Google Workspace]]"
   - "[[Technology/IMAP]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"

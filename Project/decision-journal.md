@@ -4,10 +4,7 @@ name: decision-journal
 IN_CATEGORY:
   - "[[Category/Knowledge Management & Notes]]"
 MENTIONS_ORG:
-  - "[[Company/Farnam Street]]"
   - "[[Company/Obsidian]]"
-MENTIONS_PERSON:
-  - "[[Person/Annie Duke]]"
 RELATED_IDEA:
   - kind: complements
     reason: markdown notes as the human surface over the same local graph

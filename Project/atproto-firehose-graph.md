@@ -3,8 +3,6 @@ type: Project
 name: atproto-firehose-graph
 IN_CATEGORY:
   - "[[Category/Social & Community Networks]]"
-MENTIONS_ORG:
-  - "[[Company/Bluesky Social]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: the dataset-family tradition this entry explicitly extends
@@ -16,12 +14,8 @@ RELATED_IDEA:
     reason: cited as the personal-slice framing
     target: "[[Project/your-follow-graph]]"
 USES_TECH:
-  - "[[Technology/ATProto]]"
-  - "[[Technology/Bluesky]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Jetstream]]"
   - "[[Technology/Neo4j]]"
-  - "[[Technology/Pulsar]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

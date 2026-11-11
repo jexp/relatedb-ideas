@@ -7,7 +7,6 @@ MENTIONS_ORG:
   - "[[Company/GitHub]]"
   - "[[Company/Meetup]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/Stack Overflow]]"
 RELATED_IDEA:
   - kind: complements
     reason: supplies the PageRank and clustering queries the guides call for
@@ -23,10 +22,8 @@ USES_TECH:
   - "[[Technology/GitHub]]"
   - "[[Technology/GraphQL]]"
   - "[[Technology/Meetup]]"
-  - "[[Technology/Reddit]]"
   - "[[Technology/Stack Overflow]]"
   - "[[Technology/Twitch]]"
-  - "[[Technology/YouTube]]"
 ---
 
 # Developer Social Networks

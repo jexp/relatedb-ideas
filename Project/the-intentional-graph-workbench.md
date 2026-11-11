@@ -5,11 +5,6 @@ IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
   - "[[Company/Graphileon]]"
-  - "[[Company/Intentional Software]]"
-  - "[[Company/JetBrains]]"
-MENTIONS_PERSON:
-  - "[[Person/Charles Simonyi]]"
-  - "[[Person/Martin Fowler]]"
 RELATED_IDEA:
   - kind: complements
     reason: first editor skin over the shared graph
@@ -25,8 +20,6 @@ RELATED_IDEA:
     target: "[[Project/table-editor-to-graph]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Graphileon]]"
-  - "[[Technology/JetBrains MPS]]"
   - "[[Technology/MCP]]"
   - "[[Technology/Mermaid]]"
   - "[[Technology/RelateDB]]"

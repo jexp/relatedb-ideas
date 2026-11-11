@@ -21,7 +21,6 @@ USES_TECH:
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/graphology]]"
   - "[[Technology/sigma.js]]"
 ---
 

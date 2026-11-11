@@ -5,21 +5,17 @@ IN_CATEGORY:
   - "[[Category/Import, ETL & Data Sources]]"
 MENTIONS_ORG:
   - "[[Company/Google]]"
-  - "[[Company/Schema.org]]"
-  - "[[Company/Web Data Commons]]"
 RELATED_IDEA:
   - kind: complements
     reason: the companion project querying the schema where this one queries the instances
     target: "[[Project/rdf-ontology-metagraph]]"
 USES_TECH:
-  - "[[Technology/Common Crawl]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/JSON-LD]]"
   - "[[Technology/RDF]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/Schema.org]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/Web Data Commons]]"
 ---
 
 # JSON-LD Everywhere

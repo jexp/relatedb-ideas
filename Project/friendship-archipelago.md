@@ -17,8 +17,6 @@ USES_TECH:
   - "[[Technology/MCP]]"
   - "[[Technology/Python]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/iCal]]"
-  - "[[Technology/vCard]]"
 ---
 
 # Friendship Archipelago

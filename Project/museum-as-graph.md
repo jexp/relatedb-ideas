@@ -3,19 +3,11 @@ type: Project
 name: museum-as-graph
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/Europeana]]"
-  - "[[Company/Metropolitan Museum of Art]]"
-  - "[[Company/Rijksmuseum]]"
-  - "[[Company/Smithsonian]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Gephi]]"
   - "[[Technology/JSON-LD]]"
-  - "[[Technology/Linked Art]]"
-  - "[[Technology/Met Collection API]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Rijksmuseum]]"
   - "[[Technology/WASM]]"
 ---
 

@@ -3,11 +3,8 @@ type: Project
 name: code-cities
 IN_CATEGORY:
   - "[[Category/Visualization & Rendering]]"
-MENTIONS_ORG:
-  - "[[Company/USI Lugano]]"
 MENTIONS_PERSON:
   - "[[Person/Adam Tornhill]]"
-  - "[[Person/Richard Wettel]]"
 RELATED_IDEA:
   - kind: complements
     reason: shares the churn and complexity graph instead of forking the analysis
@@ -19,7 +16,6 @@ USES_TECH:
   - "[[Technology/WASM]]"
   - "[[Technology/WebGPU]]"
   - "[[Technology/cosmos.gl]]"
-  - "[[Technology/three.js]]"
 ---
 
 # Code Cities

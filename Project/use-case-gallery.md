@@ -4,12 +4,9 @@ name: use-case-gallery
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
-  - "[[Company/Crunchbase]]"
   - "[[Company/Neo4j]]"
   - "[[Company/OpenCorporates]]"
   - "[[Company/OpenSanctions]]"
-MENTIONS_PERSON:
-  - "[[Person/Kelvin Lawrence]]"
 RELATED_IDEA:
   - kind: complements
     reason: graph algorithms pack in the learning track
@@ -25,8 +22,6 @@ RELATED_IDEA:
     target: "[[Project/the-movie-graph-all-grown-up]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/GQL]]"
-  - "[[Technology/Neo4j Sandbox]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQL]]"
   - "[[Technology/WASM]]"

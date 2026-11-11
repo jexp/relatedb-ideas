@@ -17,10 +17,8 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/GDELT]]"
   - "[[Technology/GH Archive]]"
-  - "[[Technology/Gource]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/react-force-graph]]"
 ---
 
 # Animated Graph Timelapse

@@ -14,7 +14,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/PageRank]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Stanford WebBase]]"
   - "[[Technology/WASM]]"
 ---
 

@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Visualization & Rendering]]"
 MENTIONS_ORG:
   - "[[Company/Graphistry]]"
-  - "[[Company/OpenJS Foundation]]"
 RELATED_IDEA:
   - "[[Project/d3-sigma-cytoscape-adapters]]"
 USES_TECH:

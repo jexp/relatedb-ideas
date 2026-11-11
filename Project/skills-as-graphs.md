@@ -3,9 +3,6 @@ type: Project
 name: skills-as-graphs
 IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
-MENTIONS_PERSON:
-  - "[[Person/Maciej Besta]]"
-  - "[[Person/Zach Blumenfeld]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited for the subgraph projection mechanics this builds on
@@ -20,13 +17,9 @@ RELATED_IDEA:
     reason: same move of modeling agent-facing capabilities as a graph
     target: "[[Project/tools-as-graphs]]"
 USES_TECH:
-  - "[[Technology/AIP]]"
-  - "[[Technology/Agent Skills]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Graph of Thoughts]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Voyager]]"
   - "[[Technology/WASM]]"
 ---
 

@@ -17,6 +17,7 @@ RELATED_IDEA:
     reason: both publish a graph as a portable, shareable artifact
     target: "[[Project/static-sites-from-dynamic-graphs]]"
 USES_TECH:
+  - "[[Technology/ClickHouse]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Datasette]]"
   - "[[Technology/GraphGist]]"
@@ -24,7 +25,6 @@ USES_TECH:
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/clickhouse-local]]"
 ---
 
 # Single-File Graph Stories

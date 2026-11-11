@@ -19,7 +19,6 @@ USES_TECH:
   - "[[Technology/Neo4j]]"
   - "[[Technology/PGlite]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/openCypher TCK]]"
 ---
 
 # The Driver That Isn't

@@ -5,8 +5,6 @@ IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
 MENTIONS_ORG:
   - "[[Company/Gephi]]"
-  - "[[Company/Janelia Research Campus]]"
-  - "[[Company/OpenWorm]]"
 MENTIONS_PERSON:
   - "[[Person/Albert-László Barabási]]"
   - "[[Person/Mark Newman]]"

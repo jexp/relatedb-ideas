@@ -3,8 +3,6 @@ type: Project
 name: cyber-range-replayer
 IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
-MENTIONS_ORG:
-  - "[[Company/Honeynet Project]]"
 MENTIONS_PERSON:
   - "[[Person/Albert-László Barabási]]"
 RELATED_IDEA:
@@ -20,11 +18,8 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Gephi]]"
-  - "[[Technology/NetFlow]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Sysmon]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/Zeek]]"
 ---
 
 # Cyber Range Replayer

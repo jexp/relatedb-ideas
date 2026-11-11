@@ -21,12 +21,10 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/JSONL]]"
-  - "[[Technology/Kafka]]"
   - "[[Technology/MQTT]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/Redis]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/pcap]]"
 ---
 
 # Event Stream to Temporal Graph

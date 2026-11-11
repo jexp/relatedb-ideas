@@ -4,7 +4,6 @@ name: aleph-in-a-journalists-pocket
 IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
-  - "[[Company/DARC]]"
   - "[[Company/ICIJ]]"
   - "[[Company/OCCRP]]"
 RELATED_IDEA:
@@ -15,9 +14,7 @@ RELATED_IDEA:
     reason: the claims layer that sits on top of the entity graph
     target: "[[Project/the-fact-check-engine]]"
 USES_TECH:
-  - "[[Technology/Aleph]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Elasticsearch]]"
   - "[[Technology/FollowTheMoney]]"
   - "[[Technology/Neo4j]]"
   - "[[Technology/NetworkX]]"

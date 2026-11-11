@@ -16,13 +16,10 @@ RELATED_IDEA:
     target: "[[Project/d3-sigma-cytoscape-adapters]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Embedding Atlas]]"
   - "[[Technology/Gephi]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/UMAP]]"
   - "[[Technology/Vector Search]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/t-SNE]]"
 ---
 
 # KNN Graph Viewer

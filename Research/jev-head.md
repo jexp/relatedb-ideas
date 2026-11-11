@@ -9,11 +9,6 @@ IN_CATEGORY:
   - "[[Category/Research]]"
 MENTIONS_ORG:
   - "[[Company/Neo4j]]"
-  - "[[Company/PostHog]]"
-  - "[[Company/Together AI]]"
-  - "[[Company/Zilliz]]"
-MENTIONS_PERSON:
-  - "[[Person/Jerry Liu]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: pg-jev proves decisions-as-SQL operators while the Cypher lane stays empty
@@ -31,7 +26,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/JEV]]"
   - "[[Technology/MCP]]"
-  - "[[Technology/Milvus]]"
   - "[[Technology/PostgreSQL]]"
   - "[[Technology/SQLite]]"
 ---

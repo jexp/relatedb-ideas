@@ -16,7 +16,6 @@ USES_TECH:
   - "[[Technology/JSON]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/everything-cli]]"
 ---
 
 # Agent CLI Ergonomics

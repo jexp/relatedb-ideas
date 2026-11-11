@@ -6,8 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Neo4j]]"
   - "[[Company/W3C]]"
-MENTIONS_PERSON:
-  - "[[Person/Michela Ledwidge]]"
 RELATED_IDEA:
   - kind: complements
     reason: same anchored world graph on the map
@@ -16,14 +14,12 @@ RELATED_IDEA:
     reason: same anchored world graph on the robot
     target: "[[Project/robot-side-brain]]"
 USES_TECH:
-  - "[[Technology/CityJSON]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/IFC]]"
   - "[[Technology/MCP]]"
   - "[[Technology/OpenStreetMap]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/WebXR]]"
 ---
 
 # VR/XR Overlay

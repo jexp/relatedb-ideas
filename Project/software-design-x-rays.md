@@ -4,7 +4,6 @@ name: software-design-x-rays
 IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
-  - "[[Company/CodeScene]]"
   - "[[Company/jQAssistant]]"
 MENTIONS_PERSON:
   - "[[Person/Adam Tornhill]]"
@@ -20,9 +19,7 @@ RELATED_IDEA:
     target: "[[Project/software-analytics-sandbox]]"
 USES_TECH:
   - "[[Technology/CSV]]"
-  - "[[Technology/CodeScene]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Git]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/jQAssistant]]"
 ---

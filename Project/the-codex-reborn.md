@@ -4,12 +4,9 @@ name: the-codex-reborn
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
-  - "[[Company/Carnegie Mellon University]]"
   - "[[Company/Historical Network Research]]"
   - "[[Company/Neo4j]]"
 MENTIONS_PERSON:
-  - "[[Person/Andreas Kuczera]]"
-  - "[[Person/Iian Neill]]"
   - "[[Person/Rik van Bruggen]]"
 RELATED_IDEA:
   - kind: complements
@@ -22,14 +19,9 @@ RELATED_IDEA:
     reason: cited as the community and craft for this class of work
     target: "[[Project/the-hnr-humanities-pack]]"
 USES_TECH:
-  - "[[Technology/C Sharp]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Neo4j]]"
-  - "[[Technology/ODNB]]"
-  - "[[Technology/Pelagios]]"
-  - "[[Technology/Pleiades]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Trismegistos]]"
 ---
 
 # The Codex, Reborn — an Atlas of History

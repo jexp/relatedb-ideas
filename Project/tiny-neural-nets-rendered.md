@@ -6,7 +6,6 @@ IN_CATEGORY:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/TensorFlow Playground]]"
   - "[[Technology/WASM]]"
 ---
 

@@ -11,8 +11,6 @@ IN_CATEGORY:
   - "[[Category/Research]]"
 MENTIONS_ORG:
   - "[[Company/TypeSafe AI]]"
-MENTIONS_PERSON:
-  - "[[Person/David Braun]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: bible-jev-climb builds a KJV cross-reference graph today in memory

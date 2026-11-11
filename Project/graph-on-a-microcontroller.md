@@ -4,7 +4,6 @@ name: graph-on-a-microcontroller
 IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
 MENTIONS_ORG:
-  - "[[Company/Espressif Systems]]"
   - "[[Company/Neo4j]]"
 RELATED_IDEA:
   - kind: variant
@@ -21,12 +20,9 @@ RELATED_IDEA:
     target: "[[Project/the-pouchdb-move]]"
 USES_TECH:
   - "[[Technology/C ABI]]"
-  - "[[Technology/ESP32]]"
   - "[[Technology/MQTT]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/SPIFFS]]"
   - "[[Technology/WAL]]"
-  - "[[Technology/littlefs]]"
 ---
 
 # A Graph on a Microcontroller

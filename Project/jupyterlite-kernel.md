@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
   - "[[Company/Neo4j]]"
-  - "[[Company/Project Jupyter]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as another teaching artifact that is a notebook in disguise
@@ -20,9 +19,7 @@ USES_TECH:
   - "[[Technology/Arrow]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/DuckDB WASM]]"
-  - "[[Technology/JupyterLite]]"
   - "[[Technology/NetworkX]]"
-  - "[[Technology/Pyodide]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

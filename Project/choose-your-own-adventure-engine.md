@@ -5,11 +5,9 @@ IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Inform 7]]"
   - "[[Technology/MCP]]"
   - "[[Technology/Mermaid]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Twine]]"
   - "[[Technology/WASM]]"
 ---
 

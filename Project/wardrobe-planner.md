@@ -3,10 +3,6 @@ type: Project
 name: wardrobe-planner
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/Cladwell]]"
-MENTIONS_PERSON:
-  - "[[Person/Susie Faux]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Parquet]]"

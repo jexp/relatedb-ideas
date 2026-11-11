@@ -11,7 +11,6 @@ RELATED_IDEA:
     reason: named as the cheap first run-DAG viewer
     target: "[[Project/mermaid-as-a-query-result]]"
 USES_TECH:
-  - "[[Technology/AgentOps]]"
   - "[[Technology/Arize Phoenix]]"
   - "[[Technology/Arrow]]"
   - "[[Technology/Cypher]]"

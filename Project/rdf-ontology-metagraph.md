@@ -4,22 +4,15 @@ name: rdf-ontology-metagraph
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
 MENTIONS_ORG:
-  - "[[Company/Apache Software Foundation]]"
-  - "[[Company/OBO Foundry]]"
   - "[[Company/W3C]]"
 RELATED_IDEA:
   - kind: complements
     reason: the JSON-LD half of shipping ontologies in ordinary pages
     target: "[[Project/json-ld-everywhere]]"
 USES_TECH:
-  - "[[Technology/Apache Jena]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/OWL]]"
   - "[[Technology/RDF]]"
   - "[[Technology/SPARQL]]"
-  - "[[Technology/Turtle]]"
-  - "[[Technology/neosemantics]]"
-  - "[[Technology/rdflib]]"
 ---
 
 # RDF Ontology Metagraph

@@ -3,14 +3,11 @@ type: Project
 name: crew-org-chart
 IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
-MENTIONS_ORG:
-  - "[[Company/CrewAI]]"
 RELATED_IDEA:
   - kind: complements
     reason: budget accounting can be derived from the warehouse's agent spans
     target: "[[Project/agent-trace-warehouse]]"
 USES_TECH:
-  - "[[Technology/AutoGen]]"
   - "[[Technology/CrewAI]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/LangGraph]]"

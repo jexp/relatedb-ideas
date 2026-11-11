@@ -4,7 +4,6 @@ name: smart-home-state-graph
 IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
 MENTIONS_ORG:
-  - "[[Company/Nabu Casa]]"
   - "[[Company/Zep]]"
 RELATED_IDEA:
   - kind: variant

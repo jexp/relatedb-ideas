@@ -6,9 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Geofabrik]]"
   - "[[Company/OpenStreetMap Foundation]]"
-  - "[[Company/Protomaps]]"
-MENTIONS_PERSON:
-  - "[[Person/Geoff Boeing]]"
 RELATED_IDEA:
   - kind: complements
     reason: the rendered map layer for the same OSM-derived street graph
@@ -20,11 +17,8 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Geofabrik]]"
   - "[[Technology/NetworkX]]"
-  - "[[Technology/OSMnx]]"
   - "[[Technology/OpenStreetMap]]"
-  - "[[Technology/Protomaps]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/osmium-tool]]"
 ---
 
 # OpenStreetMap Wedge

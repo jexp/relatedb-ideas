@@ -26,9 +26,7 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Graphiti]]"
-  - "[[Technology/Konig]]"
   - "[[Technology/Parquet]]"
-  - "[[Technology/gRPC]]"
 ---
 
 # Research findings: Zep's Konig — the bespoke graph DB for agent memory

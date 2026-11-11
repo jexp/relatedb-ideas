@@ -15,7 +15,6 @@ USES_TECH:
   - "[[Technology/PGlite]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/WebExtensions]]"
 ---
 
 # User-Journey Recorder

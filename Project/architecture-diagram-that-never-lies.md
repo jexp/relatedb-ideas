@@ -12,7 +12,6 @@ RELATED_IDEA:
     target: "[[Project/static-sites-from-dynamic-graphs]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Docker Compose]]"
   - "[[Technology/GUAC]]"
   - "[[Technology/Kubernetes]]"
   - "[[Technology/Mermaid]]"

@@ -5,16 +5,11 @@ IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
   - "[[Company/FalkorDB]]"
-  - "[[Company/MITRE]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/FalkorDB]]"
   - "[[Technology/GUAC]]"
   - "[[Technology/Joern]]"
-  - "[[Technology/MITRE ATT&CK]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/STIX]]"
-  - "[[Technology/TAXII]]"
 ---
 
 # Attack-Path Simulator

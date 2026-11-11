@@ -3,8 +3,6 @@ type: Project
 name: stitch-graphs
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/Ravelry]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited for the community-format loader craft
@@ -19,7 +17,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/GraphGist]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Stitch Meshes]]"
   - "[[Technology/WASM]]"
 ---
 

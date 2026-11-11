@@ -3,8 +3,6 @@ type: Project
 name: dark-style-multiverse-storage
 IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
-MENTIONS_ORG:
-  - "[[Company/Netflix]]"
 RELATED_IDEA:
   - kind: variant
     reason: same fictional-character graph pattern over a different canon

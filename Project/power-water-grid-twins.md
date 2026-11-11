@@ -3,21 +3,15 @@ type: Project
 name: power-water-grid-twins
 IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
-MENTIONS_ORG:
-  - "[[Company/SciGRID]]"
-  - "[[Company/U.S. Environmental Protection Agency]]"
 RELATED_IDEA:
   - kind: complements
     reason: the same cascading-outage reachability work turned into response routing
     target: "[[Project/disaster-response-router]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Enipedia]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/SciGRID]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/WNTR]]"
 ---
 
 # Power/Water Grid Twins

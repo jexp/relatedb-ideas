@@ -4,10 +4,7 @@ name: crypto-flow-forensics
 IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
 MENTIONS_ORG:
-  - "[[Company/Chainalysis]]"
-  - "[[Company/Elliptic]]"
   - "[[Company/ICIJ]]"
-  - "[[Company/TRM Labs]]"
 RELATED_IDEA:
   - kind: complements
     reason: append-only ledger events replayed as timestamped graph edges
@@ -17,9 +14,7 @@ RELATED_IDEA:
     target: "[[Project/icij-in-a-browser-tab]]"
 USES_TECH:
   - "[[Technology/BigQuery]]"
-  - "[[Technology/Bitcoin]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Ethereum]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

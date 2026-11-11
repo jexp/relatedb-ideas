@@ -18,13 +18,9 @@ RELATED_IDEA:
     target: "[[Project/graph-lens-over-any-database]]"
 USES_TECH:
   - "[[Technology/Amazon S3]]"
-  - "[[Technology/DuckDB httpfs]]"
-  - "[[Technology/HTTP Range Requests]]"
-  - "[[Technology/IPFS]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/sql.js-httpvfs]]"
 ---
 
 # httpfs for `.cl` Files

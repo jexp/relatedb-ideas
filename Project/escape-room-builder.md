@@ -3,8 +3,6 @@ type: Project
 name: escape-room-builder
 IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
-MENTIONS_PERSON:
-  - "[[Person/Ron Gilbert]]"
 RELATED_IDEA:
   - kind: variant
     reason: the same lock-and-key progression DAG as an authored narrative

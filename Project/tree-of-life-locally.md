@@ -3,17 +3,11 @@ type: Project
 name: tree-of-life-locally
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
-MENTIONS_ORG:
-  - "[[Company/OneZoom]]"
-  - "[[Company/Open Tree of Life]]"
 MENTIONS_PERSON:
   - "[[Person/Mark Newman]]"
 USES_TECH:
   - "[[Technology/Bolt]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/DateLife]]"
-  - "[[Technology/OneZoom]]"
-  - "[[Technology/Open Tree of Life]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

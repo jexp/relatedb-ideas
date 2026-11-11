@@ -18,9 +18,7 @@ RELATED_IDEA:
     target: "[[Project/network-science-interactive]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/OPFS]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Service Worker]]"
   - "[[Technology/WASM]]"
 ---
 

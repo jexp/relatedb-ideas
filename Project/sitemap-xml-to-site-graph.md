@@ -3,8 +3,6 @@ type: Project
 name: sitemap-xml-to-site-graph
 IN_CATEGORY:
   - "[[Category/Import, ETL & Data Sources]]"
-MENTIONS_ORG:
-  - "[[Company/Screaming Frog]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as the engine behind the snapshot diff mode
@@ -16,8 +14,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Datasette]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Screaming Frog]]"
-  - "[[Technology/Sitemap XML]]"
 ---
 
 # `sitemap.xml` → Site Graph

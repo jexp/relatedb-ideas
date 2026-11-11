@@ -6,7 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/Apple]]"
   - "[[Company/Kuzu]]"
-  - "[[Company/MIT SPARK Lab]]"
 RELATED_IDEA:
   - kind: complements
     reason: the same embedded device-side graph store for a different host
@@ -16,10 +15,7 @@ RELATED_IDEA:
     target: "[[Project/rdf-ontology-metagraph]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Hydra]]"
-  - "[[Technology/Kimera]]"
   - "[[Technology/Kuzu]]"
-  - "[[Technology/ROS]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/Schema.org]]"
   - "[[Technology/WASM]]"

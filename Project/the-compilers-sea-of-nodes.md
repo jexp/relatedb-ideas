@@ -5,12 +5,6 @@ IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
   - "[[Company/Oracle]]"
-  - "[[Company/Rice University]]"
-  - "[[Company/Shopify]]"
-MENTIONS_PERSON:
-  - "[[Person/Chris Seaton]]"
-  - "[[Person/Cliff Click]]"
-  - "[[Person/Thomas Würthinger]]"
 RELATED_IDEA:
   - kind: complements
     reason: cited as the per-pass scrubbing view
@@ -27,12 +21,8 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/GraalVM]]"
-  - "[[Technology/HotSpot C2]]"
-  - "[[Technology/IGV]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Sea of Nodes]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/seafoam]]"
 ---
 
 # The Compiler's Sea of Nodes

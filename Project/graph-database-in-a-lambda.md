@@ -8,14 +8,11 @@ MENTIONS_ORG:
   - "[[Company/Neo4j]]"
   - "[[Company/Turso]]"
 USES_TECH:
-  - "[[Technology/AWS Lambda]]"
   - "[[Technology/Amazon S3]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Rust]]"
   - "[[Technology/Turso]]"
   - "[[Technology/litestream]]"
-  - "[[Technology/rqlite]]"
 ---
 
 # Graph Database in a Lambda

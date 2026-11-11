@@ -4,18 +4,11 @@ name: reading-list-recommender-that-shows-its-work
 IN_CATEGORY:
   - "[[Category/Content & Publishing]]"
 MENTIONS_ORG:
-  - "[[Company/Goodreads]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/Readwise]]"
-  - "[[Company/UC San Diego]]"
-MENTIONS_PERSON:
-  - "[[Person/Mengting Wan]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Goodreads Datasets]]"
   - "[[Technology/MCP]]"
   - "[[Technology/Neo4j]]"
-  - "[[Technology/Readwise]]"
   - "[[Technology/RelateDB]]"
 ---
 

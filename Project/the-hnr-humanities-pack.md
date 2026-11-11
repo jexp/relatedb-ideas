@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
   - "[[Company/Historical Network Research]]"
-  - "[[Company/Journal of Historical Network Research]]"
 RELATED_IDEA:
   - kind: complements
     reason: network analysis bridge for metrics Cypher cannot express

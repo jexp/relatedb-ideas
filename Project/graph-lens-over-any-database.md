@@ -8,14 +8,13 @@ MENTIONS_ORG:
   - "[[Company/DuckDB Labs]]"
   - "[[Company/Neo4j]]"
 USES_TECH:
-  - "[[Technology/Apache Calcite]]"
   - "[[Technology/Arrow]]"
+  - "[[Technology/ClickHouse]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/DuckDB]]"
   - "[[Technology/PostgreSQL]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"
-  - "[[Technology/clickhouse-local]]"
 ---
 
 # Graph Lens over Any Database

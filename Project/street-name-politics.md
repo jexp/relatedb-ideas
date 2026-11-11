@@ -3,11 +3,6 @@ type: Project
 name: street-name-politics
 IN_CATEGORY:
   - "[[Category/Security, Investigation & Journalism]]"
-MENTIONS_ORG:
-  - "[[Company/University of Richmond]]"
-  - "[[Company/University of Tennessee]]"
-MENTIONS_PERSON:
-  - "[[Person/Derek Alderman]]"
 RELATED_IDEA:
   - kind: same-data
     reason: cited as the street-graph import layer this combines

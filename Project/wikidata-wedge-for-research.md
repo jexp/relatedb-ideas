@@ -4,7 +4,6 @@ name: wikidata-wedge-for-research
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
-  - "[[Company/USC Information Sciences Institute]]"
   - "[[Company/Wikimedia Foundation]]"
 RELATED_IDEA:
   - kind: variant
@@ -12,12 +11,10 @@ RELATED_IDEA:
     target: "[[Project/wikipedia-wedge]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/KGTK]]"
   - "[[Technology/Parquet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SPARQL]]"
   - "[[Technology/Wikidata]]"
-  - "[[Technology/wdsub]]"
 ---
 
 # Wikidata Wedge for Research

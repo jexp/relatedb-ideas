@@ -5,10 +5,7 @@ IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/DikuMUD]]"
-  - "[[Technology/MUSH]]"
   - "[[Technology/Mermaid]]"
-  - "[[Technology/ROM]]"
   - "[[Technology/RelateDB]]"
 ---
 

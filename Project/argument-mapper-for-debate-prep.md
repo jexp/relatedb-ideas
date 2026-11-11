@@ -3,13 +3,8 @@ type: Project
 name: argument-mapper-for-debate-prep
 IN_CATEGORY:
   - "[[Category/Knowledge Management & Notes]]"
-MENTIONS_PERSON:
-  - "[[Person/Horst Rittel]]"
-  - "[[Person/Stephen Toulmin]]"
 USES_TECH:
-  - "[[Technology/Argdown]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/IBIS]]"
   - "[[Technology/MCP]]"
   - "[[Technology/Mermaid]]"
   - "[[Technology/RelateDB]]"

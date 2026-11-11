@@ -3,10 +3,6 @@ type: Project
 name: chat-native-queries
 IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
-MENTIONS_ORG:
-  - "[[Company/Discord]]"
-  - "[[Company/Slack]]"
-  - "[[Company/Telegram]]"
 RELATED_IDEA:
   - kind: complements
     reason: named as the shareable-result artifact the bot attaches
@@ -20,11 +16,9 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Bolt]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Discord]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/Slack]]"
-  - "[[Technology/Telegram]]"
   - "[[Technology/WASM]]"
 ---
 

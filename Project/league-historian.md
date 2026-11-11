@@ -3,19 +3,12 @@ type: Project
 name: league-historian
 IN_CATEGORY:
   - "[[Category/Domain Modeling]]"
-MENTIONS_ORG:
-  - "[[Company/ESPN]]"
-  - "[[Company/Sleeper]]"
-  - "[[Company/Yahoo]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/ESPN]]"
   - "[[Technology/Python]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Sleeper API]]"
   - "[[Technology/WAL]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/Yahoo Fantasy]]"
 ---
 
 # League Historian

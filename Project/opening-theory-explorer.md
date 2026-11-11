@@ -3,14 +3,8 @@ type: Project
 name: opening-theory-explorer
 IN_CATEGORY:
   - "[[Category/Games & Interactive Fiction]]"
-MENTIONS_ORG:
-  - "[[Company/Lichess]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/ECO]]"
-  - "[[Technology/FEN]]"
-  - "[[Technology/Lichess]]"
-  - "[[Technology/PGN]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

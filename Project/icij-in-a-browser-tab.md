@@ -10,7 +10,6 @@ MENTIONS_ORG:
 USES_TECH:
   - "[[Technology/Bolt]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Graphistry]]"
   - "[[Technology/ICIJ Offshore Leaks]]"
   - "[[Technology/Neo4j]]"
   - "[[Technology/Parquet]]"

@@ -20,7 +20,6 @@ USES_TECH:
   - "[[Technology/Neo4j]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/arrows.app]]"
 ---
 
 # Arrows on RelateDB

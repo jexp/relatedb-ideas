@@ -12,7 +12,6 @@ RELATED_IDEA:
     target: "[[Project/the-emergent-interaction-graph]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/PCA]]"
   - "[[Technology/RelateDB]]"
 ---
 

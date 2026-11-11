@@ -5,8 +5,6 @@ IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
   - "[[Company/Ink & Switch]]"
-  - "[[Company/Liquibase]]"
-  - "[[Company/Neo4j Labs]]"
 RELATED_IDEA:
   - kind: complements
     reason: explicitly the cross-system twin of this cross-time lens
@@ -14,11 +12,8 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cambria]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/Liquibase]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/neo4j-migrations]]"
-  - "[[Technology/neocarta]]"
 ---
 
 # Cambria for Graphs

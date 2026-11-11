@@ -13,11 +13,9 @@ RELATED_IDEA:
     reason: the renderer adapters for the Gist's graph pane
     target: "[[Project/d3-sigma-cytoscape-adapters]]"
 USES_TECH:
-  - "[[Technology/AsciiDoc]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Evidence]]"
   - "[[Technology/Markdown]]"
-  - "[[Technology/Neo4j GraphGists]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
   - "[[Technology/sigma.js]]"

@@ -4,12 +4,7 @@ name: legal-citation-graphs
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
 MENTIONS_ORG:
-  - "[[Company/Free Law Project]]"
-  - "[[Company/Harvard Library Innovation Lab]]"
-  - "[[Company/LexisNexis]]"
   - "[[Company/Neo4j]]"
-MENTIONS_PERSON:
-  - "[[Person/Iryna Feuerstein]]"
 RELATED_IDEA:
   - kind: complements
     reason: reuses the claim-to-authority model over legal citation edges
@@ -18,12 +13,7 @@ RELATED_IDEA:
     reason: candidate-match entity resolution pattern reused across citations
     target: "[[Project/gedcom-importer-merger]]"
 USES_TECH:
-  - "[[Technology/Caselaw Access Project]]"
-  - "[[Technology/CourtListener]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/ECtHR-PCR]]"
-  - "[[Technology/LKIF]]"
-  - "[[Technology/Lynx Legal Knowledge Graph]]"
   - "[[Technology/Neo4j]]"
   - "[[Technology/RelateDB]]"
 ---

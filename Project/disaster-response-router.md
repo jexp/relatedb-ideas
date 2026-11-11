@@ -5,9 +5,7 @@ IN_CATEGORY:
   - "[[Category/Infrastructure & Operations]]"
 MENTIONS_ORG:
   - "[[Company/Geofabrik]]"
-  - "[[Company/Humanitarian OpenStreetMap Team]]"
   - "[[Company/OpenStreetMap Foundation]]"
-  - "[[Company/Organic Maps]]"
 RELATED_IDEA:
   - kind: complements
     reason: the map-rendering layer the responder app needs
@@ -23,8 +21,6 @@ USES_TECH:
   - "[[Technology/Geofabrik]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/OpenStreetMap]]"
-  - "[[Technology/Organic Maps]]"
-  - "[[Technology/PBF]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/Valhalla]]"
 ---

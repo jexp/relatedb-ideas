@@ -20,8 +20,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/jev-tree]]"
-  - "[[Technology/jev4pg]]"
 ---
 
 # Strategy Graphs as Shipped Artifacts

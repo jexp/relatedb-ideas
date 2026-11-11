@@ -3,8 +3,6 @@ type: Project
 name: wordnet-but-queryable
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/Princeton University]]"
 RELATED_IDEA:
   - kind: complements
     reason: NetworkX gallery WordNet recipes ported to Cypher
@@ -13,7 +11,6 @@ USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/D3]]"
   - "[[Technology/NetworkX]]"
-  - "[[Technology/Open English WordNet]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
   - "[[Technology/WordNet]]"

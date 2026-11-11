@@ -3,8 +3,6 @@ type: Project
 name: scripture-cross-reference-navigation
 IN_CATEGORY:
   - "[[Category/Reference & Research Data]]"
-MENTIONS_ORG:
-  - "[[Company/OpenBible.info]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: explicitly applies the walked-surface artifact pattern to sacred text
@@ -17,12 +15,9 @@ RELATED_IDEA:
     target: "[[Project/the-hnr-humanities-pack]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/KJV]]"
   - "[[Technology/OpenBible]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Treasury of Scripture Knowledge]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/bible-jev-climb]]"
 ---
 
 # Scripture Cross-Reference Navigation

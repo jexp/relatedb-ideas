@@ -1,4 +1,0 @@
----
-type: Company
-name: Excalidraw
----

@@ -17,7 +17,6 @@ RELATED_IDEA:
     target: "[[Project/node2vec-rebuilt]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Louvain]]"
   - "[[Technology/Neo4j GDS]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/PageRank]]"

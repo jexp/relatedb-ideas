@@ -18,10 +18,8 @@ RELATED_IDEA:
     reason: named as the pattern for running the extraction entirely in the browser
     target: "[[Project/in-browser-knowledge-extraction]]"
 USES_TECH:
-  - "[[Technology/BAML]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Kuzu]]"
-  - "[[Technology/Ollama]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
   - "[[Technology/web-llm]]"

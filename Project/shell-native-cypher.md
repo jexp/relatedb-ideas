@@ -18,11 +18,7 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/Unix Pipes]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/clig.dev]]"
-  - "[[Technology/jq]]"
-  - "[[Technology/ratatui]]"
 ---
 
 # Shell-Native Cypher

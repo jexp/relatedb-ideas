@@ -22,7 +22,6 @@ USES_TECH:
   - "[[Technology/SNAP]]"
   - "[[Technology/WASM]]"
   - "[[Technology/Wikipedia]]"
-  - "[[Technology/Wikispeedia]]"
 ---
 
 # The WikiGame, Powered by Real Data

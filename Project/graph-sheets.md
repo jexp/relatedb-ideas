@@ -4,11 +4,8 @@ name: graph-sheets
 IN_CATEGORY:
   - "[[Category/Tooling & Developer UX]]"
 MENTIONS_ORG:
-  - "[[Company/Airtable]]"
   - "[[Company/Bending Spoons]]"
   - "[[Company/Ink & Switch]]"
-MENTIONS_PERSON:
-  - "[[Person/Adam Wiggins]]"
 RELATED_IDEA:
   - kind: complements
     reason: local callables are the stored-query machinery the live views and bots ride on
@@ -20,9 +17,7 @@ RELATED_IDEA:
     reason: grid editing with a live graph view; this adds the app-platform layer
     target: "[[Project/table-editor-to-graph]]"
 USES_TECH:
-  - "[[Technology/Airtable]]"
   - "[[Technology/Cypher]]"
-  - "[[Technology/HyperCard]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

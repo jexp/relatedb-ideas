@@ -3,12 +3,6 @@ type: Project
 name: harris-matrices-properly
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
-MENTIONS_ORG:
-  - "[[Company/Aarhus University]]"
-  - "[[Company/TU Wien]]"
-MENTIONS_PERSON:
-  - "[[Person/E. C. Harris]]"
-  - "[[Person/Joe Roe]]"
 RELATED_IDEA:
   - kind: complements
     reason: the same-as identity-resolution craft needed for cross-trench correlation
@@ -18,12 +12,8 @@ RELATED_IDEA:
     target: "[[Project/the-hnr-humanities-pack]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Harris Matrix]]"
-  - "[[Technology/R]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WAL]]"
-  - "[[Technology/stratigraphr]]"
-  - "[[Technology/tidygraph]]"
 ---
 
 # Harris Matrices, Properly

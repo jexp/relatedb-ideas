@@ -7,9 +7,7 @@ MENTIONS_ORG:
   - "[[Company/Electric SQL]]"
   - "[[Company/Ink & Switch]]"
 USES_TECH:
-  - "[[Technology/CouchDB]]"
   - "[[Technology/Neo4j]]"
-  - "[[Technology/PouchDB]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/SQLite]]"
   - "[[Technology/WAL]]"

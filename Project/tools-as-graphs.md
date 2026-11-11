@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Agent Tooling & Memory]]"
 MENTIONS_ORG:
   - "[[Company/Anthropic]]"
-  - "[[Company/OpenBMB]]"
 RELATED_IDEA:
   - kind: complements
     reason: trace mine that trains the tool graph
@@ -21,12 +20,9 @@ RELATED_IDEA:
     target: "[[Project/the-graph-walking-agent-cursor]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/Gorilla]]"
-  - "[[Technology/JSON Schema]]"
   - "[[Technology/LangGraph]]"
   - "[[Technology/MCP]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/ToolBench]]"
 ---
 
 # Tools as Graphs

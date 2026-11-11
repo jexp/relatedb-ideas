@@ -5,7 +5,6 @@ IN_CATEGORY:
   - "[[Category/Knowledge Management & Notes]]"
 MENTIONS_ORG:
   - "[[Company/Discogs]]"
-  - "[[Company/Internet Archive]]"
   - "[[Company/MusicBrainz]]"
 RELATED_IDEA:
   - kind: variant
@@ -20,7 +19,6 @@ USES_TECH:
   - "[[Technology/Discogs]]"
   - "[[Technology/MCP]]"
   - "[[Technology/MusicBrainz]]"
-  - "[[Technology/Open Library]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WASM]]"
 ---

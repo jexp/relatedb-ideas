@@ -5,9 +5,7 @@ IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
 MENTIONS_ORG:
   - "[[Company/Apple]]"
-  - "[[Company/Garmin]]"
   - "[[Company/Kuzu]]"
-  - "[[Company/Strava]]"
 RELATED_IDEA:
   - kind: variant
     reason: both put personal route and activity data into a local queryable graph
@@ -17,13 +15,9 @@ RELATED_IDEA:
     target: "[[Project/openstreetmap-wedge]]"
 USES_TECH:
   - "[[Technology/Cypher]]"
-  - "[[Technology/FIT]]"
   - "[[Technology/GPX]]"
-  - "[[Technology/Garmin]]"
   - "[[Technology/Kuzu]]"
   - "[[Technology/NetworkX]]"
-  - "[[Technology/Strava]]"
-  - "[[Technology/TCX]]"
 ---
 
 # Running/Cycling/Hiking Graph

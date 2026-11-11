@@ -3,8 +3,6 @@ type: Project
 name: isnad-engine
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
-MENTIONS_PERSON:
-  - "[[Person/Recep Senturk]]"
 RELATED_IDEA:
   - kind: complements
     reason: the same narrator identity-resolution craft across name variants and collections

@@ -6,7 +6,6 @@ IN_CATEGORY:
 MENTIONS_ORG:
   - "[[Company/ICIJ]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/Open Ownership]]"
   - "[[Company/OpenCorporates]]"
   - "[[Company/OpenSanctions]]"
 RELATED_IDEA:
@@ -20,13 +19,10 @@ RELATED_IDEA:
     reason: same multi-hop reachability questions over a different supply chain
     target: "[[Project/transitive-dependency-networks]]"
 USES_TECH:
-  - "[[Technology/BODS]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/FollowTheMoney]]"
   - "[[Technology/GUAC]]"
-  - "[[Technology/Linkurious]]"
   - "[[Technology/Neo4j]]"
-  - "[[Technology/OpenSanctions]]"
   - "[[Technology/RelateDB]]"
 ---
 

@@ -20,7 +20,6 @@ RELATED_IDEA:
 USES_TECH:
   - "[[Technology/Cypher]]"
   - "[[Technology/Cytoscape]]"
-  - "[[Technology/Pixi]]"
   - "[[Technology/RelateDB]]"
   - "[[Technology/WAL]]"
   - "[[Technology/WASM]]"

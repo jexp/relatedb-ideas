@@ -11,11 +11,6 @@ IN_CATEGORY:
   - "[[Category/Research]]"
 MENTIONS_ORG:
   - "[[Company/Ink & Switch]]"
-MENTIONS_PERSON:
-  - "[[Person/Seph Gentle]]"
-  - "[[Person/Steve Ruiz]]"
-  - "[[Person/Sunil Pai]]"
-  - "[[Person/Tristan Edwards]]"
 RELATED_IDEA:
   - kind: inspired-by
     reason: Cambria lenses become a stored lens graph over schema versions
@@ -30,12 +25,9 @@ RELATED_IDEA:
     reason: capability based sharing mapped onto graph authorization
     target: "[[Project/keyhive-share-menu]]"
 USES_TECH:
-  - "[[Technology/Automerge]]"
-  - "[[Technology/CRDT]]"
   - "[[Technology/Cambria]]"
   - "[[Technology/Cypher]]"
   - "[[Technology/Keyhive]]"
-  - "[[Technology/Patchwork]]"
   - "[[Technology/WASM]]"
 ---
 

@@ -4,11 +4,8 @@ name: sports-dynamics
 IN_CATEGORY:
   - "[[Category/Science & Graph Analytics]]"
 MENTIONS_ORG:
-  - "[[Company/Hudl]]"
   - "[[Company/Neo4j]]"
-  - "[[Company/StatsBomb]]"
 MENTIONS_PERSON:
-  - "[[Person/Adam Cowley]]"
   - "[[Person/Albert-László Barabási]]"
   - "[[Person/Mark Needham]]"
   - "[[Person/Rik van Bruggen]]"
@@ -25,9 +22,7 @@ USES_TECH:
   - "[[Technology/Neo4j]]"
   - "[[Technology/NetworkX]]"
   - "[[Technology/RelateDB]]"
-  - "[[Technology/StatsBomb]]"
   - "[[Technology/WASM]]"
-  - "[[Technology/mplsoccer]]"
 ---
 
 # Sports Dynamics
